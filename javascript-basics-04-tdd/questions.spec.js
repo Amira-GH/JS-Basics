@@ -99,7 +99,7 @@ describe('Numbers and math : ', () => {
 
   describe('absoluteValue', () => {
     it('Get the absolute value of a number', () => {
-      const result = absoluteValue(-5)
+      const result =  (-5)
       expect(result).toEqual(5)
     })
   })
@@ -133,6 +133,43 @@ describe('Numbers and math : ', () => {
   })
 
 })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 describe("Arrays", () =>  {
 
